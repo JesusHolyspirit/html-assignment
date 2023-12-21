@@ -1,1 +1,1 @@
-# html-assignment
+i want to delete images folder
